@@ -3,7 +3,10 @@
 #### Junior Computer Science Engineering Undegraduate | AI Cloud Enthusiast | Open Source Enthusiast
 
 
-Skills: Machine Learning, Deep Learning, Node js, Django
++ Machine Learning
++ Deep Learning
++ NodeJs
++ Django
 
 #### Connect with me
 
