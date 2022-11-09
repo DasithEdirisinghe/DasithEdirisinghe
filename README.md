@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Dasith Edirisinghe. 
 
-#### Junior Computer Science Engineering Undegraduate | AI Cloud Enthusiast | Open Source Enthusiast
+#### Senior Computer Science Engineering Undegraduate | AI Cloud Enthusiast | Open Source Enthusiast
 
 
 ##### Skills
