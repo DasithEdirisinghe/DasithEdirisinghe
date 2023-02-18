@@ -5,10 +5,10 @@
 
 ##### Skills
 
++ Software Engineering
 + Machine Learning
 + Deep Learning
-+ NodeJs
-+ Django
++ Information Retrieval
 
 ##### Connect with me
 
