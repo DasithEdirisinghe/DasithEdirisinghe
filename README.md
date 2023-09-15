@@ -14,7 +14,7 @@
 #### Technologies
 
 + Python, Golang, Java
-+ Pytorch, Tensorflow, Numpy, Scikit Learn, Pandas, Matplotlib
++ Pytorch, Tensorflow, Numpy, Scikit Learn, Pandas, Matplotlib, Huggingface
 + Django, Fast API, Express, Reactjs, Spring
 + MySQL, PostgreSQL, DynamoDB
 + Docker, Kubernates
